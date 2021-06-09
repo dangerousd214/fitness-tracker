@@ -41,7 +41,7 @@ This app was designed to help you keep track of your workouts throughout the wee
 
 Darren Watson
 
-#### License
+### License
 
 The MIT License (MIT)
 Copyright © 2021 <copyright holders>
