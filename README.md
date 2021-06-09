@@ -5,16 +5,16 @@ This app was designed to help you keep track of your workouts throughout the wee
 ## Table of Contents
 
 <ul>
-    <li><a href="#tech">Technology</a></li>
-    <li><a href="#demo">Demo</a></li>
-    <li><a href="#live">Live Site</a></li>
-    <li><a href="#credit">Credits</a></li>
-    <li><a href="#license">License</a></li>
+    <li>Technology</li>
+    <li>Demo</li>
+    <li>Live Site</li>
+    <li>Credits</li>
+    <li>License</li>
 </ul>
 
 ## Technology 
 
-<ul id="tech">
+<ul>
     <li>HTML</li>
     <li>CSS</li>
     <li>JavaScript</li>
@@ -33,7 +33,7 @@ This app was designed to help you keep track of your workouts throughout the wee
 ![cardio img](/imgs/cardio.png)
 ![dashboard img](/imgs/dashboard.png)
 
-## Live Site
+## Live
 
 [Fitness tracker](https://fitness-4-u.herokuapp.com/)
 
