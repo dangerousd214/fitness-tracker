@@ -5,16 +5,16 @@ This app was designed to help you keep track of your workouts throughout the wee
 ## Table of Contents
 
 <ul>
-    <li>[ Technology ](#tech)</li>
-    <li><a>Demo</a></li>
-    <li><a>Live Site</a></li>
-    <li><a>Credits</a></li>
-    <li><a>License</a></li>
+    <li><a href="#tech">Technology</a></li>
+    <li><a href="#demo">Demo</a></li>
+    <li><a href="#live">Live Site</a></li>
+    <li><a href="#credit">Credits</a></li>
+    <li><a href="#license">License</a></li>
 </ul>
 
 ## Technology 
 
-<ul>
+<ul id="tech">
     <li>HTML</li>
     <li>CSS</li>
     <li>JavaScript</li>
@@ -35,7 +35,7 @@ This app was designed to help you keep track of your workouts throughout the wee
 
 ## Live Site
 
-[fitness tracker](https://fitness-4-u.herokuapp.com/)
+[Fitness tracker](https://fitness-4-u.herokuapp.com/)
 
 ### Developers
 
